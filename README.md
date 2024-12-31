@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Nextjs and Frontend Skill<br>👯 I’m looking to collaborate on Functionality<br>🌱 I’m currently learning ExpressJS and MongoDB<br>💬 Ask me about my Favorite thing in Programming<br>⚡ Fun fact
+🔭 I’m currently working on my Nextjs and Frontend Skill<br>👯 I’m looking to collaborate on Functionality<br>🌱 I’m currently learning ExpressJS and MongoDB<br>💬 Ask me about my Favorite thing in Programming<br>
 
 
 ## 🌐 Socials:
